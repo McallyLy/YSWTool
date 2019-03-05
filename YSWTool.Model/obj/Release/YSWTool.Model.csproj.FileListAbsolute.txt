@@ -1,0 +1,10 @@
+C:\Users\MonkeyFly\Desktop\Tool\代码\YSWTool\YSWTool.Model\bin\Release\YSWTool.Model.dll
+C:\Users\MonkeyFly\Desktop\Tool\代码\YSWTool\YSWTool.Model\bin\Release\YSWTool.Model.pdb
+C:\Users\MonkeyFly\Desktop\Tool\代码\YSWTool\YSWTool.Model\obj\Release\YSWTool.Model.csproj.CoreCompileInputs.cache
+C:\Users\MonkeyFly\Desktop\Tool\代码\YSWTool\YSWTool.Model\obj\Release\YSWTool.Model.dll
+C:\Users\MonkeyFly\Desktop\Tool\代码\YSWTool\YSWTool.Model\obj\Release\YSWTool.Model.pdb
+C:\Users\MonkeyFly\Desktop\小工具\YSWTool\YSWTool.Model\bin\Release\YSWTool.Model.dll
+C:\Users\MonkeyFly\Desktop\小工具\YSWTool\YSWTool.Model\bin\Release\YSWTool.Model.pdb
+C:\Users\MonkeyFly\Desktop\小工具\YSWTool\YSWTool.Model\obj\Release\YSWTool.Model.csproj.CoreCompileInputs.cache
+C:\Users\MonkeyFly\Desktop\小工具\YSWTool\YSWTool.Model\obj\Release\YSWTool.Model.dll
+C:\Users\MonkeyFly\Desktop\小工具\YSWTool\YSWTool.Model\obj\Release\YSWTool.Model.pdb

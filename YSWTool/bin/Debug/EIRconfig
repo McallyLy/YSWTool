@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Config>
+    <FileName>F:\TRUNK\EIR-B\数据库文档\10051数据库说明v3.0.xls</FileName>
+    <Model>MonkeyFly.EIR.Models</Model>
+    <ModelService>MonkeyFly.EIR.ModelServices</ModelService>
+    <connectionString>server=172.29.1.5,8079;uid=EIR201805;pwd=mf.123465;database=EIR2018;Min Pool Size=50</connectionString>
+    <SystemID>10051</SystemID>
+    <ParType>4</ParType>
+    <Parameter>5</Parameter>
+    <Table>3</Table>
+  </Config>
+</Root>

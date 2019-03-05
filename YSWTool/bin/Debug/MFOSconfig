@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Config>
+    <FileName>F:\TRUNK\MFOS-B\数据库文档\10051数据库说明v3.0.xls</FileName>
+    <Model>MonkeyFly.MFOS.Models</Model>
+    <ModelService>MonkeyFly.MFOS.ModelServices</ModelService>
+    <connectionString>server=172.29.1.5,8079;uid=MFOS20180427;pwd=mf.123465;database=MFOS2018;Min Pool Size=50</connectionString>
+    <SystemID>10051</SystemID>
+    <Parameter>5</Parameter>
+    <Table>3</Table>
+    <ParType>4</ParType>
+  </Config>
+</Root>

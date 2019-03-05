@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Config>
+    <FileName>C:\Users\shang\Desktop\SWGS数据库说明V1.7.xls</FileName>
+    <Model>MonkeyFly.EMO.Models</Model>
+    <ModelService>MonkeyFly.EMO.ModelServices</ModelService>
+    <connectionString>server=58.252.57.252,8079;uid=emos;pwd=emos;database=emos;Min Pool Size=50;pooling=false</connectionString>
+    <SystemID>10036</SystemID>
+    <Parameter>4</Parameter>
+    <Table>1</Table>
+  </Config>
+</Root>

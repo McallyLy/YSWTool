@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Config>
+    <FileName>C:\Users\Sam Ye\Desktop\MES数据库说明v7.1.xls</FileName>
+    <Model>MonkeyFly.MES.Models</Model>
+    <ModelService>MonkeyFly.MES.ModelServices</ModelService>
+    <connectionString>server=172.29.1.5,8079;uid=mes;pwd=mes;database=10039-Dev;Min Pool Size=50;pooling=false</connectionString>
+    <SystemID>10039</SystemID>
+    <Parameter>4</Parameter>
+    <Table>2</Table>
+    <ParType>3</ParType>
+  </Config>
+</Root>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Config>
+    <FileName>C:\Users\Administrator\Desktop\三和二维码\10044数据库说明v1.0.xls</FileName>
+    <Model>MonkeyFly.SWQR.Models</Model>
+    <ModelService>MonkeyFly.SWQR.ModelServices</ModelService>
+    <connectionString>server=172.29.1.5,8079;uid=mfos;pwd=mf.18888;database=10044;Min Pool Size=50</connectionString>
+    <SystemID>10044</SystemID>
+    <ParType>4</ParType>
+    <Parameter>5</Parameter>
+    <Table>3</Table>
+  </Config>
+</Root>

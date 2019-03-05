@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Config>
+    <Home>
+    </Home>
+    <FileName>
+    </FileName>
+    <Model>
+    </Model>
+    <ModelService>
+    </ModelService>
+    <connectionString>
+    </connectionString>
+    <SystemID>
+    </SystemID>
+    <ParType>
+    </ParType>
+    <Parameter>
+    </Parameter>
+    <Table>
+    </Table>
+  </Config>
+</Root>
